@@ -1,4 +1,6 @@
-# wcn7850 hw2.0
+# wcn7850 hw2.0 for arch linux
+
+## If your wcn7850 hw2.0 atk12 does not show up in dmesg try a CMOS Reset!
 
 
 Fix for WIFI not working in my MS-7E25/MAG Z790 TOMAHAWK MAX WIFI (MS-7E25), BIOS A.50 04/26/2024 in my archlinux.
