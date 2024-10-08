@@ -7,7 +7,7 @@ Fix for WIFI not working in my MS-7E25/MAG Z790 TOMAHAWK MAX WIFI (MS-7E25), BIO
 
 Basically I'm just using old atk11 drivers instead of atk12h.
 
-No, newer kernels and newers firmwares `don't work` with this motherboard. That's why I created this repository, to fix this exact problem
+No, newer kernels and newers firmwares `don't work` with this motherboard. That's why I created this repository, to fix this exact problem. Tested in `6.11.2-arch1-1`
 
 ## Is this repository for me?
 
